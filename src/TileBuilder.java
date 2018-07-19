@@ -1,4 +1,4 @@
-//Justin Penkalski - May 30, 2018
+//A simple drawing application.
 
 import java.util.*;
 import java.awt.*;
